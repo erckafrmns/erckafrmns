@@ -9,10 +9,8 @@ From building interactive user interfaces to managing the backend, I'm eager to 
 Let’s create something amazing together! :computer::sparkles:
 
 [![GitHub followers](https://img.shields.io/github/followers/erckafrmns?style=for-the-badge&label=FOLLOW&labelColor=blue&color=pink)](https://github.com/erckafrmns)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=web&logoColor=white&labelColor=blue&color=pink)](https://erckafrmns.github.io/portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=web&logoColor=white&labelColor=blue&color=pink)](https://erckafrmns.github.io/portfolio/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=pink)](https://www.linkedin.com/in/erickaformanes/)
-
-<br/>
 
 ### :computer: Languages and Tools I Used
 
@@ -36,13 +34,11 @@ Let’s create something amazing together! :computer::sparkles:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<br/>
-
 ### :bar_chart: GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=erckafrmns&theme=ayu-mirage&hide_border=false)<br/><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erckafrmns&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erckafrmns&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=erckafrmns&theme=radical&hide_border=false)<br/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erckafrmns&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erckafrmns&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 <br/>
 
